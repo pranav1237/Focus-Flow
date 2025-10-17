@@ -44,9 +44,8 @@ public/
 ```bash
 pnpm test
 ```
+##Access:
+You can also access the whole project through this Google Drive Link:
 
-## Screenshots
-Add screenshots or GIFs of the app in action.
+https://drive.google.com/file/d/1pNYNY4QohmPT5kt0mopVv5CnrJHq2Llc/view?usp=drive_link
 
-## License
-MIT
